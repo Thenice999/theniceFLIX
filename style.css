@@ -14,27 +14,26 @@ header{
 }
 section{
 
-    background: rgb(184,156,213);
+    background: rgba(167, 38, 34, 0.795);
     padding-bottom: 80px;
     padding-top: 80px;
 }
 
-.chamada{background rgb
-    pidding-bottom:80px;
-    pidding: top 80px;
-    display:flex;
-
+.chamada{background:rgb(10, 10, 10);
+    padding-bottom: 80px;
+   padding-top: 80px;
+   display:flex;
 }
 
 
 .chamada-texto{
-    margin-left: 5%;
+   margin-left: 5%;
 }
 
 h1{
-    font-size: 40px;
+   font-size: 40px;
 }
 
 p{
-    font-size: 20px;
+   font-size: 20px;
 }
